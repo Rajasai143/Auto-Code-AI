@@ -1,0 +1,11 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+google-generativeai
+python-dotenv
+##Dont forget to create .env file
+and get a gemini api key 
+like this === GOOGLE_API_KEY="your google api key"
